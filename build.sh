@@ -8,4 +8,4 @@ rm -rf ./build
 
 ./node_modules/entu-cms/build.js ./entu-cms.yaml
 
-cp -r ./assets/ ./build/assets
+# cp -r ./assets/ ./build/assets
